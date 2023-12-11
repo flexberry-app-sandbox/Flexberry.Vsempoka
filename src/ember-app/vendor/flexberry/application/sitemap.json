@@ -1,0 +1,85 @@
+﻿{
+  "applicationCaption": "Vsempoka",
+  "applicationTitle": "Vsempoka",
+  "items": [
+    {
+      "link": null,
+      "menuName": "vsempoka",
+      "caption": "Vsempoka",
+      "title": "Vsempoka",
+      "children": [
+        {
+          "link": "i-i-s-vsempoka-список-контей-l",
+          "menuName": null,
+          "caption": "Список контей",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vsempoka-список-барж-l",
+          "menuName": null,
+          "caption": "Список барж",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vsempoka-формир-распред-l",
+          "menuName": null,
+          "caption": "Формир распред",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vsempoka-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vsempoka-пункт-погруз-l",
+          "menuName": null,
+          "caption": "Пункт погруз",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vsempoka-форм-рез-пост-l",
+          "menuName": null,
+          "caption": "Форм рез пост",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vsempoka-пункт-погрузки-l",
+          "menuName": null,
+          "caption": "Пункт погрузки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vsempoka-товары-l",
+          "menuName": null,
+          "caption": "Товары",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vsempoka-клиенты-l",
+          "menuName": null,
+          "caption": "Клиенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vsempoka-докум-поставки-l",
+          "menuName": null,
+          "caption": "Докум поставки",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

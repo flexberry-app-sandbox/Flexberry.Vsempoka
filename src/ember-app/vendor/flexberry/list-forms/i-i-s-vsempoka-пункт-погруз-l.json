@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vsempoka-пункт-погруз-e",
+  "editForm": "i-i-s-vsempoka-пункт-погруз-e",
+  "external": false,
+  "caption": "Пункт погруз",
+  "name": "IISVsempokaПунктПогрузL",
+  "className": "ПунктПогрузL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vsempoka-пункт-погруз",
+      "modelProjection": "ПунктПогрузL"
+    }
+  ]
+}

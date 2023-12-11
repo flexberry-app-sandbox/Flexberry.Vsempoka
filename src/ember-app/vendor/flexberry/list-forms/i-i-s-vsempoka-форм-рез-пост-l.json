@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vsempoka-форм-рез-пост-e",
+  "editForm": "i-i-s-vsempoka-форм-рез-пост-e",
+  "external": false,
+  "caption": "Форм рез пост",
+  "name": "IISVsempokaФормРезПостL",
+  "className": "ФормРезПостL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vsempoka-форм-рез-пост",
+      "modelProjection": "ФормРезПостL"
+    }
+  ]
+}
